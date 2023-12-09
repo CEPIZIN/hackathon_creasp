@@ -7,7 +7,7 @@ Certifique-se de ter o Dart e o Flutter instalados em sua máquina.
 Clone este repositório para seu ambiente local.
 
 ```
-git clone https://github.com/bellujrb/hackathon-creasp
+https://github.com/CEPIZIN/hackathon_creasp
 ```
 
 Navegue até o diretório do projeto.
@@ -42,7 +42,6 @@ Iniciar o projeto:
 
 ```
 npm start
-localhost:3000/api
 ```
 
 # Design Patterns (Mobile)
